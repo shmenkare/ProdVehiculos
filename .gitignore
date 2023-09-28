@@ -1,0 +1,9 @@
+ProdVehiculos.csproj
+ProdVehiculos.sln
+ProdVehiculos.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
